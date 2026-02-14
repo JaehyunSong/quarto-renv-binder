@@ -1,1 +1,5 @@
 zip
+gsfonts
+libmagick++-dev
+libnode-dev
+pandoc
